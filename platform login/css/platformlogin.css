@@ -1,0 +1,26 @@
+.roseimg {
+    width:5%;
+    height: auto;
+    align-items: right;
+    margin: 0.5em 0.3px;
+    border-radius: 5px;
+
+}
+
+.headerbar {
+    justify-content: right;
+}
+.logodoctor {
+    margin: 10% 30%;
+}
+   
+.user {
+    width: 100%;
+    height : auto;
+    border-radius: 0.3em;
+    padding: 0.5em;
+}
+
+.forgot {
+    margin : 1em 0 0 9em;
+}
